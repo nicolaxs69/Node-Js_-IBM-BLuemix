@@ -1,0 +1,5 @@
+https://console.bluemix.net/docs/runtimes/nodejs/getting-started.html#getting-started-tutorial
+
+1. Make changes and commit
+2. Push changes to IBM : cf push
+3. Ejecute: cf apps

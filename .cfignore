@@ -3,6 +3,7 @@ node_modules/
 README.md
 .github/
 .git/
+.manifest.yml
 .gitignore
 logs
 *.log
